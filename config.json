@@ -1,0 +1,6 @@
+{
+  "coinUnitPlaces": 8,
+  "addressPrefix": 4153412,
+  "keccakIterations": 1,
+  "defaultNetworkFee": 10000000
+}
